@@ -1,4 +1,4 @@
 <?php
-  echo phpinfo();
+    echo "|Did you stupidly push";
 
  ?>
